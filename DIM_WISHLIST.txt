@@ -1,5 +1,5 @@
 title:General Wish List
-description:List of all active rolls for tagged weapons.
+description:Filter for weapons that drop very frequently
 kinetic
 kinetic
 dimwishlist:item=2513965917&perks=852209214,3429800428,2846385770,124408337#notes:LUNULATA-4B
@@ -55,8 +55,6 @@ dimwishlist:item=2888266564&perks=1482024992,1968497646,1570042021,1048183818#no
 dimwishlist:item=3110377595&perks=839105230,1561002382,2846385770,3425386926#notes:AUTUMN WIND
 dimwishlist:item=2850664015&perks=3250034553,3177308360,1866048759,3425386926#notes:TRUST-Stability-PVP
 dimwishlist:item=2850664015&perks=1392496348,3142289711,1866048759,3425386926#notes:TRUST-Range-PVP
-dimwishlist:item=2850664015&perks=3250034553,3142289711,1570042021,3038247973#notes:TRUST-PVE
-dimwishlist:item=2850664015&perks=3250034553,3142289711,1570042021,4293542123#notes:TRUST-PVE
 dimwishlist:item=62937067&perks=839105230,1885400500,1195158366,4293542123,3989629871#notes:JORUM'S CLAW
 dimwishlist:item=3559361670&perks=1392496348,1885400500,4071163871,3708227201,1607056502#notes:THE TITLE
 power
@@ -75,8 +73,5 @@ dimwishlist:item=-69420&perks=3038247973#notes:EXPLOSIVE PAYLOAD
 dimwishlist:item=-69420&perks=1954620775#notes:TIMED PAYLOAD
 dimwishlist:item=-69420&perks=1048183818#notes:ADAPTIVE MUNITIONS
 dimwishlist:item=-69420&perks=3700496672#notes:SHOOT TO LOOT
-t:item=-69420&perks=1954620775#notes:TIMED PAYLOAD
-dimwishlist:item=-69420&perks=1048183818#notes:ADAPTIVE MUNITIONS
-dimwishlist:item=-69420&perks=3700496672#notes:SHOOT TO LOOT
-t:item=-69420&perks=1048183818#notes:ADAPTIVE MUNITIONS
-dimwishlist:item=-69420&perks=3700496672#notes:SHOOT TO LOOT
+
+
