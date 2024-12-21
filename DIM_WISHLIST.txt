@@ -74,6 +74,5 @@ perks
 dimwishlist:item=-69420&perks=3038247973#notes:EXPLOSIVE PAYLOAD
 dimwishlist:item=-69420&perks=1954620775#notes:TIMED PAYLOAD
 dimwishlist:item=-69420&perks=1048183818#notes:ADAPTIVE MUNITIONS
-dimwishlist:item=-69420&perks=3700496672#notes:SHOOT TO LOOT
 
 
