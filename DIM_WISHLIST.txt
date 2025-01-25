@@ -2,6 +2,7 @@ title:General Wish List
 description:Filter for weapons that drop very frequently
 
 //kinetic
+dimwishlist:item=198854575&perks=1392496348,3177308360,3828510309,3673922083,3989629871#notes:Crimil's Dagger[ST]
 dimwishlist:item=496728945&perks=1482024992,3177308360,124408337,2848615171#notes:Bold Endings
 dimwishlist:item=2761869150&perks=3809316345,3032599245,3108830275,2319119708#notes:Ignition Code
 dimwishlist:item=2848549302&perks=852209214,3429800428,2846385770,2579169598#notes:Neoptolemus II
