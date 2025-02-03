@@ -91,7 +91,7 @@ dimwishlist:item=-69420&perks=1954620775#notes:TIMED PAYLOAD
 dimwishlist:item=-69420&perks=1048183818#notes:ADAPTIVE MUNITIONS
 
 //trash
-dimwishlist:item=1246793994#notes:Maahes HC4
+dimwishlist:item=-1246793994#notes:Maahes HC4
 dimwishlist:item=-423343404#notes:Controlling Vision
 dimwishlist:item=-3959549446#notes:Yarovit MG4
 
