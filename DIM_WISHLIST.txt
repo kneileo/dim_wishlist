@@ -2,6 +2,7 @@ title:General Wish List
 description:Filter for weapons that drop very frequently
 
 //kinetic
+dimwishlist:item=480368036&perks=1478423395,1380253176,563069569,3673922083#notes:Tinasha's Mastery[BR]
 dimwishlist:item=3423493037&perks=839105230,3177308360,3619207468,3038247973#notes:Red Tape[ST]
 dimwishlist:item=198854575&perks=1392496348,3177308360,3828510309,3673922083,3989629871#notes:Crimil's Dagger[ST]
 dimwishlist:item=496728945&perks=1482024992,3177308360,124408337,2848615171#notes:Bold Endings
