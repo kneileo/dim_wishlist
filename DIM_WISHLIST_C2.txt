@@ -1,1 +1,9 @@
-xx
+title:General Wish List - Column 2
+description:Filter for weapons that drop very frequently
+
+//energy
+
+//Joxer's Longsword
+dimwishlist:item=157601190&perks=1885400500
+
+
