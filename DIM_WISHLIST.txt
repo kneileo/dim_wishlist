@@ -4,8 +4,14 @@ description:Filter for weapons that drop very frequently
 //kinetic
 dimwishlist:item=3856705927&perks=3661387068,3436462433,1012699414#notes:Hawkmoon
 dimwishlist:item=32287609&perks=3661387068,1885400500,1195158366,3673922083#notes:Boondoggle Mk. 55[ST]
-dimwishlist:item=480368036&perks=1478423395,1380253176,563069569,3673922083#notes:Tinasha's Mastery[BR]
 dimwishlist:item=3423493037&perks=839105230,3177308360,3619207468,3038247973#notes:Red Tape[ST]
+
+//Tinasha's Mastery - Blast Radius
+dimwishlist:item=480368036&perks=1478423395,1380253176,563069569,2978966579#notes:4
+dimwishlist:item=480368036&perks=1380253176,563069569,2978966579#notes:3
+dimwishlist:item=480368036&perks=563069569,2978966579#notes:2
+dimwishlist:item=480368036&perks=2978966579#notes:1
+dimwishlist:item=480368036&perks=563069569#notes:1
 
 //Crimil's Dagger - Stability Masterwork
 dimwishlist:item=198854575&perks=1482024992,3177308360,3828510309,3038247973#notes:4
