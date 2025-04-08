@@ -116,6 +116,14 @@ dimwishlist:item=3559361670&perks=1392496348,1885400500,4071163871,3708227201,16
 //power power  power 
 //power power  power 
 
+//Archon's Thunder - Stability Masterwork
+dimwishlist:item=2896109856&perks=3661387068,3177308360,1354429876,557221067#notes:4-perks
+dimwishlist:item=2896109856&perks=3661387068,1354429876,557221067#notes:3-perks
+dimwishlist:item=2896109856&perks=3177308360,1354429876,557221067#notes:3-perks
+dimwishlist:item=2896109856&perks=1354429876,557221067#notes:2-perks
+dimwishlist:item=2896109856&perks=557221067#notes:1-perks
+dimwishlist:item=2896109856&perks=1354429876#notes:1-perks
+
 dimwishlist:item=657927352&perks=1478423395,2822142346,2173046394,2396489472#notes:Hullabaloo[BR]
 dimwishlist:item=657927352&perks=2173046394,2396489472#notes:Hullabaloo - X
 dimwishlist:item=727781522&perks=839105230,1687452232,3400784728,2396489472#notes:Eyes Unveiled[CT]
