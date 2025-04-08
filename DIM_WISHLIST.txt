@@ -73,6 +73,14 @@ dimwishlist:item=963710795&perks=3250034553,1687452232,1523832109,2978966579#not
 //energy energy energy
 //energy energy energy
 
+//Truthteller - Blast Radius
+dimwishlist:item=447296102&perks=3809316345,2822142346,2779035018,4071163871#notes:4-perks
+dimwishlist:item=447296102&perks=3809316345,2779035018,4071163871#notes:3-perks_1
+dimwishlist:item=447296102&perks=2822142346,2779035018,4071163871#notes:3-perks_2
+dimwishlist:item=447296102&perks=2779035018,4071163871#notes:2-perks
+dimwishlist:item=447296102&perks=4071163871#notes:1-perks_1
+dimwishlist:item=447296102&perks=2779035018#notes:1-perks_2
+
 //Admetus-D - Stability Masterwork
 dimwishlist:item=3776430252&perks=839105230,1885400500,3619207468,1464081238#notes:4-perks
 dimwishlist:item=3776430252&perks=839105230,3619207468,1464081238#notes:3-perks_1
