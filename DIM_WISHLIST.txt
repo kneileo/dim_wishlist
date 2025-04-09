@@ -8,7 +8,7 @@ dimwishlist:item=3856705927&perks=3661387068,3436462433,1012699414#notes:Hawkmoo
 dimwishlist:item=32287609&perks=3661387068,1885400500,1195158366,3673922083#notes:Boondoggle Mk. 55[ST]
 dimwishlist:item=3423493037&perks=839105230,3177308360,3619207468,3038247973#notes:Red Tape[ST]
 
-//Live Fire - Stability Masterwork
+//Live Fire - Stability
 dimwishlist:item=3612142623&perks=839105230,1561002382,1955165503,124408337#notes:4-perks
 dimwishlist:item=3612142623&perks=839105230,1955165503,124408337#notes:3-perks_1
 dimwishlist:item=3612142623&perks=1561002382,1955165503,124408337#notes:3-perks_2
@@ -16,7 +16,7 @@ dimwishlist:item=3612142623&perks=1955165503,124408337#notes:2-perks
 dimwishlist:item=3612142623&perks=124408337#notes:1-perks_1
 dimwishlist:item=3612142623&perks=1955165503#notes:1-perks_2
 
-//Tinasha's Mastery - Blast Radius Masterwork
+//Tinasha's Mastery - Blast Radius 
 dimwishlist:item=480368036&perks=1478423395,1380253176,563069569,2978966579#notes:4-perks
 dimwishlist:item=480368036&perks=1478423395,563069569,2978966579#notes:3-perks_1
 dimwishlist:item=480368036&perks=1380253176,563069569,2978966579#notes:3-perks_2
@@ -24,7 +24,7 @@ dimwishlist:item=480368036&perks=563069569,2978966579#notes:2-perks
 dimwishlist:item=480368036&perks=2978966579#notes:1-perks_1
 dimwishlist:item=480368036&perks=563069569#notes:1-perks_2
 
-//Crimil's Dagger - Stability Masterwork
+//Crimil's Dagger - Stability 
 dimwishlist:item=198854575&perks=1482024992,3177308360,3828510309,3038247973#notes:4-perks
 dimwishlist:item=198854575&perks=1482024992,3828510309,3038247973#notes:3-perks_1
 dimwishlist:item=198854575&perks=3177308360,3828510309,3038247973#notes:3-perks_2
@@ -32,13 +32,21 @@ dimwishlist:item=198854575&perks=3828510309,3038247973#notes:2-perks
 dimwishlist:item=198854575&perks=3038247973#notes:1-perks_1
 dimwishlist:item=198854575&perks=3828510309#notes:1-perks_2
 
-//Better Devils - Stability Masterwork
+//Better Devils - Stability 
 dimwishlist:item=4152016199&perks=3661387068,3177308360,247725512,3038247973#notes:4-perks
 dimwishlist:item=4152016199&perks=3661387068,247725512,3038247973#notes:3-perks_1
 dimwishlist:item=4152016199&perks=3177308360,247725512,3038247973#notes:3-perks_2
 dimwishlist:item=4152016199&perks=247725512,3038247973#notes:2-perks
 dimwishlist:item=4152016199&perks=3038247973#notes:1-perks_1
 dimwishlist:item=4152016199&perks=247725512#notes:1-perks_2
+
+//Taraxippos - Stability
+dimwishlist:item=2595813005&perks=839105230,3142289711,3619207468,3038247973#notes:4-perks
+dimwishlist:item=2595813005&perks=839105230,3619207468,3038247973#notes:3-perks_1
+dimwishlist:item=2595813005&perks=3142289711,3619207468,3038247973#notes:3-perks_2
+dimwishlist:item=2595813005&perks=3619207468,3038247973#notes:2-perks
+dimwishlist:item=2595813005&perks=3038247973#notes:1-perks_1
+dimwishlist:item=2595813005&perks=3619207468#notes:1-perks_2
 
 dimwishlist:item=496728945&perks=1482024992,3177308360,124408337,2848615171#notes:Bold Endings
 dimwishlist:item=2761869150&perks=3809316345,3032599245,3108830275,2319119708#notes:Ignition Code
@@ -67,11 +75,18 @@ dimwishlist:item=2328531378&perks=3661387068,1561002382,1354429876,1015611457#no
 dimwishlist:item=772231794&perks=3661387068,3177308360,247725512,3038247973,2839173408#notes:HUNG JURY SR4
 dimwishlist:item=2034215657&perks=3661387068,1885400500,3619207468,831391274#notes:ROUND ROBIN
 dimwishlist:item=996109059&perks=839105230,3142289711,2387244414,3038247973#notes:NAMELESS MIDNIGHT
-dimwishlist:item=1389546626&perks=839105230,3142289711,2387244414,3038247973,2839173408#notes:TARAXIPPOS
 dimwishlist:item=963710795&perks=3250034553,1687452232,1523832109,2978966579#notes:AURVANDIL FR6
 
 //energy energy energy
 //energy energy energy
+
+//Contingency Plan - Stability
+dimwishlist:item=577528837&perks=839105230,3142289711,3436462433,1015611457#notes:4-perks
+dimwishlist:item=577528837&perks=839105230,3436462433,1015611457#notes:3-perks_1
+dimwishlist:item=577528837&perks=3142289711,3436462433,1015611457#notes:3-perks_2
+dimwishlist:item=577528837&perks=3436462433,1015611457#notes:2-perks
+dimwishlist:item=577528837&perks=1015611457#notes:1-perks_1
+dimwishlist:item=577528837&perks=3436462433#notes:1-perks_2
 
 //Psychopomp- Blast Radius
 dimwishlist:item=4028298892&perks=3798852852,2822142346,2779035018,2888557110#notes:4-perks
@@ -81,7 +96,7 @@ dimwishlist:item=4028298892&perks=2779035018,2888557110#notes:2-perks
 dimwishlist:item=4028298892&perks=2888557110#notes:1-perks_1
 dimwishlist:item=4028298892&perks=2779035018#notes:1-perks_2
 
-//Chrysura Melo - Stability Masterwork
+//Chrysura Melo - Stability
 dimwishlist:item=1337707096&perks=1392496348,3177308360,1168162263,2848615171#notes:4-perks
 dimwishlist:item=1337707096&perks=1392496348,1168162263,2848615171#notes:3-perks_1
 dimwishlist:item=1337707096&perks=3177308360,1168162263,2848615171#notes:3-perks_2
@@ -89,7 +104,7 @@ dimwishlist:item=1337707096&perks=1168162263,2848615171#notes:2-perks
 dimwishlist:item=1337707096&perks=2848615171#notes:1-perks_1
 dimwishlist:item=1337707096&perks=1168162263#notes:1-perks_2
 
-//Division - Stability Masterwork
+//Division - Stability
 dimwishlist:item=2903168058&perks=839105230,3177308360,1195158366,31345821#notes:4-perks
 dimwishlist:item=2903168058&perks=839105230,1195158366,31345821#notes:3-perks_1
 dimwishlist:item=2903168058&perks=3177308360,1195158366,31345821#notes:3-perks_2
@@ -105,7 +120,7 @@ dimwishlist:item=447296102&perks=2779035018,4071163871#notes:2-perks
 dimwishlist:item=447296102&perks=4071163871#notes:1-perks_1
 dimwishlist:item=447296102&perks=2779035018#notes:1-perks_2
 
-//Admetus-D - Stability Masterwork
+//Admetus-D - Stability
 dimwishlist:item=3776430252&perks=839105230,1885400500,3619207468,1464081238#notes:4-perks
 dimwishlist:item=3776430252&perks=839105230,3619207468,1464081238#notes:3-perks_1
 dimwishlist:item=3776430252&perks=1885400500,3619207468,1464081238#notes:3-perks_2
@@ -113,7 +128,7 @@ dimwishlist:item=3776430252&perks=3619207468,1464081238#notes:2-perks
 dimwishlist:item=3776430252&perks=1464081238#notes:1-perks_1
 dimwishlist:item=3776430252&perks=3619207468#notes:1-perks_2
 
-//Joxer's Longsword - Stability Masterwork
+//Joxer's Longsword - Stability
 dimwishlist:item=157601190&perks=839105230,1885400500,2848615171,2048641572#notes:4-perks
 dimwishlist:item=157601190&perks=839105230,2848615171,2048641572#notes:3-perks_1
 dimwishlist:item=157601190&perks=1885400500,2848615171,2048641572#notes:3-perks_2
@@ -161,7 +176,39 @@ dimwishlist:item=3559361670&perks=1392496348,1885400500,4071163871,3708227201,16
 //power power  power 
 //power power  power 
 
-//Archon's Thunder - Stability Masterwork
+//Double-Edged Answer - Impact
+dimwishlist:item=105164264&perks=2827049491,52780822,2590710093,2048641572#notes:4-perks
+dimwishlist:item=105164264&perks=2827049491,2590710093,2048641572#notes:3-perks_1
+dimwishlist:item=105164264&perks=52780822,2590710093,2048641572#notes:3-perks_2
+dimwishlist:item=105164264&perks=2590710093,2048641572#notes:2-perks
+dimwishlist:item=105164264&perks=2048641572#notes:1-perks_1
+dimwishlist:item=105164264&perks=2590710093#notes:1-perks_2
+
+//Sleepless - Velocity
+dimwishlist:item=2140635451&perks=1478423395,3796465595,3977735242,2396489472#notes:4-perks
+dimwishlist:item=2140635451&perks=1478423395,3977735242,2396489472#notes:3-perks_1
+dimwishlist:item=2140635451&perks=3796465595,3977735242,2396489472#notes:3-perks_2
+dimwishlist:item=2140635451&perks=3977735242,2396489472#notes:2-perks
+dimwishlist:item=2140635451&perks=2396489472#notes:1-perks_1
+dimwishlist:item=2140635451&perks=3977735242#notes:1-perks_2
+
+//Watchful Eye - Stability
+dimwishlist:item=1757177186&perks=839105230,1561002382,3513791699,3966416502#notes:4-perks
+dimwishlist:item=1757177186&perks=839105230,3513791699,3966416502#notes:3-perks_1
+dimwishlist:item=1757177186&perks=1561002382,3513791699,3966416502#notes:3-perks_2
+dimwishlist:item=1757177186&perks=3513791699,3966416502#notes:2-perks
+dimwishlist:item=1757177186&perks=3966416502#notes:1-perks_1
+dimwishlist:item=1757177186&perks=3513791699#notes:1-perks_2
+
+//Abyssal Edge - Impact
+dimwishlist:item=547165496&perks=938542991,52780822,2590710093,31345821#notes:4-perks
+dimwishlist:item=547165496&perks=938542991,2590710093,31345821#notes:3-perks_1
+dimwishlist:item=547165496&perks=52780822,2590710093,31345821#notes:3-perks_2
+dimwishlist:item=547165496&perks=2590710093,31345821#notes:2-perks
+dimwishlist:item=547165496&perks=31345821#notes:1-perks_1
+dimwishlist:item=547165496&perks=2590710093#notes:1-perks_2
+
+//Archon's Thunder - Stability
 dimwishlist:item=2896109856&perks=3661387068,3177308360,1354429876,557221067#notes:4-perks
 dimwishlist:item=2896109856&perks=3661387068,1354429876,557221067#notes:3-perks_1
 dimwishlist:item=2896109856&perks=3177308360,1354429876,557221067#notes:3-perks_2
