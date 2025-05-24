@@ -95,6 +95,14 @@ dimwishlist:item=963710795&perks=3250034553,1687452232,1523832109,2978966579#not
 //energy energy energy
 //energy energy energy
 
+//Warlord's Spear - Range
+dimwishlist:item=1968711238&perks=1392496348,3868766766,3418782618,3966416502#notes:4-perks
+dimwishlist:item=1968711238&perks=1392496348,3418782618,3966416502#notes:3-perks_1
+dimwishlist:item=1968711238&perks=3868766766,3418782618,3966416502#notes:3-perks_2
+dimwishlist:item=1968711238&perks=3418782618,3966416502#notes:2-perks
+dimwishlist:item=1968711238&perks=3966416502#notes:1-perks_1
+dimwishlist:item=1968711238&perks=3418782618#notes:1-perks_2
+
 //Claws of the Wolf - Stability
 dimwishlist:item=1505862304&perks=839105230,1885400500,3511092054,3425386926#notes:4-perks
 dimwishlist:item=1505862304&perks=839105230,3511092054,3425386926#notes:3-perks_1
