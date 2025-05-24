@@ -4,6 +4,14 @@ description:Filter for weapons that drop very frequently
 //kinetic kinetic kinetic 
 //kinetic kinetic kinetic 
 
+//Adamantite - Stability
+dimwishlist:item=3229982889&perks=839105230,3177308360,692399809,2298656195#notes:4-perks
+dimwishlist:item=3229982889&perks=839105230,692399809,2298656195#notes:3-perks_1
+dimwishlist:item=3229982889&perks=3177308360,692399809,2298656195#notes:3-perks_2
+dimwishlist:item=3229982889&perks=692399809,2298656195#notes:2-perks
+dimwishlist:item=3229982889&perks=2298656195#notes:1-perks_1
+dimwishlist:item=3229982889&perks=692399809#notes:1-perks_2
+
 //Refusal of the Call - Shield Duration
 dimwishlist:item=3269398063&perks=580685494,1431678320,1966281507,31345821#notes:4-perks
 dimwishlist:item=3269398063&perks=580685494,1966281507,31345821#notes:3-perks_1
