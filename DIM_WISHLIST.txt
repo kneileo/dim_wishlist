@@ -4,6 +4,14 @@ description:Filter for weapons that drop very frequently
 //kinetic kinetic kinetic 
 //kinetic kinetic kinetic 
 
+//Jurisprudent - Stability
+dimwishlist:item=4090134063&perks=3661387068,3177308360,1955165503,3038247973#notes:4-perks
+dimwishlist:item=4090134063&perks=3661387068,1955165503,3038247973#notes:3-perks_1
+dimwishlist:item=4090134063&perks=3177308360,1955165503,3038247973#notes:3-perks_2
+dimwishlist:item=4090134063&perks=1955165503,3038247973#notes:2-perks
+dimwishlist:item=4090134063&perks=3038247973#notes:1-perks_1
+dimwishlist:item=4090134063&perks=1955165503#notes:1-perks_2
+
 //Adamantite - Stability
 dimwishlist:item=3229982889&perks=839105230,3177308360,692399809,2298656195#notes:4-perks
 dimwishlist:item=3229982889&perks=839105230,692399809,2298656195#notes:3-perks_1
@@ -299,5 +307,6 @@ dimwishlist:item=-69420&perks=1048183818#notes:ADAPTIVE MUNITIONS
 dimwishlist:item=-1246793994#notes:Maahes HC4
 dimwishlist:item=-423343404#notes:Controlling Vision
 dimwishlist:item=-3959549446#notes:Yarovit MG4
+
 
 
