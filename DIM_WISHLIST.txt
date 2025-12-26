@@ -4,6 +4,15 @@ description:Filter for weapons that drop very frequently
 //kinetic kinetic kinetic 
 //kinetic kinetic kinetic 
 
+
+//Monody-44 - Blast Radius
+dimwishlist:item=3201200906&perks=3250034553,1687452232,776531651,2048641572#notes:4-perks
+dimwishlist:item=3201200906&perks=3250034553,776531651,2048641572#notes:3-perks_1
+dimwishlist:item=3201200906&perks=1687452232,776531651,2048641572#notes:3-perks_2
+dimwishlist:item=3201200906&perks=776531651,2048641572#notes:2-perks
+dimwishlist:item=3201200906&perks=2048641572#notes:1-perks_1
+dimwishlist:item=3201200906&perks=776531651#notes:1-perks_2
+
 //Gizmo Weft - Blast Radius
 dimwishlist:item=4069880346&perks=3809316345,3301904089,563069569,2396489472#notes:4-perks
 dimwishlist:item=4069880346&perks=3809316345,563069569,2396489472#notes:3-perks_1
@@ -323,6 +332,7 @@ dimwishlist:item=-69420&perks=1048183818#notes:ADAPTIVE MUNITIONS
 dimwishlist:item=-1246793994#notes:Maahes HC4
 dimwishlist:item=-423343404#notes:Controlling Vision
 dimwishlist:item=-3959549446#notes:Yarovit MG4
+
 
 
 
