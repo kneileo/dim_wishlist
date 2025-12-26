@@ -5,9 +5,9 @@ description:Filter for weapons that drop very frequently
 //kinetic kinetic kinetic 
 
 //Riptide - Charge Time
-dimwishlist:item=2297554989&perks=3250034553,689005463,3643424744,2594592626#notes:4-perks
+dimwishlist:item=2297554989&perks=3250034553,1687452232,3643424744,2594592626#notes:4-perks
 dimwishlist:item=2297554989&perks=3250034553,3643424744,2594592626#notes:3-perks_1
-dimwishlist:item=2297554989&perks=689005463,3643424744,2594592626#notes:3-perks_2
+dimwishlist:item=2297554989&perks=1687452232,3643424744,2594592626#notes:3-perks_2
 dimwishlist:item=2297554989&perks=3643424744,2594592626#notes:2-perks
 dimwishlist:item=2297554989&perks=2594592626#notes:1-perks_1
 dimwishlist:item=2297554989&perks=3643424744#notes:1-perks_2
@@ -315,6 +315,7 @@ dimwishlist:item=-69420&perks=1048183818#notes:ADAPTIVE MUNITIONS
 dimwishlist:item=-1246793994#notes:Maahes HC4
 dimwishlist:item=-423343404#notes:Controlling Vision
 dimwishlist:item=-3959549446#notes:Yarovit MG4
+
 
 
 
