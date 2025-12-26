@@ -272,6 +272,14 @@ dimwishlist:item=3559361670&perks=1392496348,1885400500,4071163871,3708227201,16
 //power power  power 
 //power power  power 
 
+//Qua Vinctus IV - Stability
+dimwishlist:item=337893613&perks=839105230,3177308360,831391274,657025441#notes:4-perks
+dimwishlist:item=337893613&perks=839105230,831391274,657025441#notes:3-perks_1
+dimwishlist:item=337893613&perks=3177308360,831391274,657025441#notes:3-perks_2
+dimwishlist:item=337893613&perks=831391274,657025441#notes:2-perks
+dimwishlist:item=337893613&perks=657025441#notes:1-perks_1
+dimwishlist:item=337893613&perks=831391274#notes:1-perks_2
+
 //Mistral Lift - Charge Time
 dimwishlist:item=766122634&perks=839105230,1687452232,3824105627,2048641572#notes:4-perks
 dimwishlist:item=766122634&perks=839105230,3824105627,2048641572#notes:3-perks_1
@@ -363,6 +371,7 @@ dimwishlist:item=-69420&perks=1048183818#notes:ADAPTIVE MUNITIONS
 dimwishlist:item=-1246793994#notes:Maahes HC4
 dimwishlist:item=-423343404#notes:Controlling Vision
 dimwishlist:item=-3959549446#notes:Yarovit MG4
+
 
 
 
