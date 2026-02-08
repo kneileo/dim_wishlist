@@ -4,6 +4,14 @@ description:Filter for weapons that drop very frequently
 //kinetic kinetic kinetic 
 //kinetic kinetic kinetic 
 
+//Jararaca-3sr - Stability
+dimwishlist:item=1851521408&perks=1392496348,1885400500,247725512,1015611457#notes:4-perks
+dimwishlist:item=1851521408&perks=1392496348,247725512,1015611457#notes:3-perks_1
+dimwishlist:item=1851521408&perks=1885400500,247725512,1015611457#notes:3-perks_2
+dimwishlist:item=1851521408&perks=247725512,1015611457#notes:2-perks
+dimwishlist:item=1851521408&perks=1015611457#notes:1-perks_1
+dimwishlist:item=1851521408&perks=247725512#notes:1-perks_2
+
 //Gizmo Weft - Blast Radius
 dimwishlist:item=4069880346&perks=3809316345,3301904089,563069569,2396489472#notes:4-perks
 dimwishlist:item=4069880346&perks=3809316345,563069569,2396489472#notes:3-perks_1
@@ -388,6 +396,7 @@ dimwishlist:item=-69420&perks=1048183818#notes:ADAPTIVE MUNITIONS
 dimwishlist:item=-1246793994#notes:Maahes HC4
 dimwishlist:item=-423343404#notes:Controlling Vision
 dimwishlist:item=-3959549446#notes:Yarovit MG4
+
 
 
 
