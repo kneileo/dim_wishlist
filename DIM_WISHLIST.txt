@@ -152,6 +152,14 @@ dimwishlist:item=1331824604&perks=2387244414,1954620775#notes:2-perks
 dimwishlist:item=1331824604&perks=1954620775#notes:1-perks_1
 dimwishlist:item=1331824604&perks=2387244414#notes:1-perks_2
 
+//Combined Action - Stability - PVP
+dimwishlist:item=1331824604&perks=3661387068,1885400500,2387244414,3673922083#notes:4-perks-pvp
+dimwishlist:item=1331824604&perks=3661387068,2387244414,3673922083#notes:3-perks_1-pvp
+dimwishlist:item=1331824604&perks=1885400500,2387244414,3673922083#notes:3-perks_2-pvp
+dimwishlist:item=1331824604&perks=2387244414,3673922083#notes:2-perks-pvp
+dimwishlist:item=1331824604&perks=3673922083#notes:1-perks_1-pvp
+dimwishlist:item=1331824604&perks=2387244414#notes:1-perks_2-pvp
+
 //Motif-41 - Blast Radius
 dimwishlist:item=1685533876&perks=3798852852,2822142346,3017780555,4293542123#notes:4-perks
 dimwishlist:item=1685533876&perks=3798852852,3017780555,4293542123#notes:3-perks_1
