@@ -4,6 +4,14 @@ description:Filter for weapons that drop very frequently
 //kinetic kinetic kinetic 
 //kinetic kinetic kinetic 
 
+//FORGOT_WHAT_THIS_IS
+dimwishlist:item=3790632261&perks=1392496348,1885400500,3619207468,555281244#notes:4-perks
+dimwishlist:item=3790632261&perks=1392496348,3619207468,555281244#notes:3-perks_1
+dimwishlist:item=3790632261&perks=1885400500,3619207468,555281244#notes:3-perks_2
+dimwishlist:item=3790632261&perks=3619207468,555281244#notes:2-perks
+dimwishlist:item=3790632261&perks=555281244#notes:1-perks_1
+dimwishlist:item=3790632261&perks=3619207468#notes:1-perks_2
+
 //Randy's Throwing Knife - Stability - Counterbalance Stock
 dimwishlist:item=4176824345&perks=1482024992,1885400500,247725512,555281244#notes:4-perks
 dimwishlist:item=4176824345&perks=1482024992,247725512,555281244#notes:3-perks_1
@@ -142,6 +150,13 @@ dimwishlist:item=963710795&perks=3250034553,1687452232,1523832109,2978966579#not
 //energy energy energy
 //energy energy energy
 
+// The Keening - Stability
+dimwishlist:item=3902351469&perks=1840239774,1885400500,1820235745,2458213969#notes:4-perks
+dimwishlist:item=3902351469&perks=1840239774,1820235745,2458213969#notes:3-perks_1
+dimwishlist:item=3902351469&perks=1885400500,1820235745,2458213969#notes:3-perks_2
+dimwishlist:item=3902351469&perks=1820235745,2458213969#notes:2-perks
+dimwishlist:item=3902351469&perks=2458213969#notes:1-perks_1
+dimwishlist:item=3902351469&perks=1820235745#notes:1-perks_2
 
 //King Orfeo - Draw Time
 dimwishlist:item=3481382332&perks=852209214,3827198035,3365897133,657025441#notes:4-perks
