@@ -109,12 +109,12 @@ dimwishlist:item=198854575&perks=3038247973#notes:1-perks_1
 dimwishlist:item=198854575&perks=3828510309#notes:1-perks_2
 
 //Better Devils - Stability 
-dimwishlist:item=4152016199&perks=3661387068,3177308360,247725512,3038247973#notes:4-perks
-dimwishlist:item=4152016199&perks=3661387068,247725512,3038247973#notes:3-perks_1
-dimwishlist:item=4152016199&perks=3177308360,247725512,3038247973#notes:3-perks_2
-dimwishlist:item=4152016199&perks=247725512,3038247973#notes:2-perks
-dimwishlist:item=4152016199&perks=3038247973#notes:1-perks_1
-dimwishlist:item=4152016199&perks=247725512#notes:1-perks_2
+dimwishlist:item=4059111041&perks=3661387068,3177308360,247725512,3038247973#notes:4-perks
+dimwishlist:item=4059111041&perks=3661387068,247725512,3038247973#notes:3-perks_1
+dimwishlist:item=4059111041&perks=3177308360,247725512,3038247973#notes:3-perks_2
+dimwishlist:item=4059111041&perks=247725512,3038247973#notes:2-perks
+dimwishlist:item=4059111041&perks=3038247973#notes:1-perks_1
+dimwishlist:item=4059111041&perks=247725512#notes:1-perks_2
 
 //Taraxippos - Stability
 dimwishlist:item=2595813005&perks=839105230,3142289711,3619207468,3038247973#notes:4-perks
