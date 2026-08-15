@@ -5,12 +5,12 @@ description:Filter for weapons that drop very frequently
 //kinetic kinetic kinetic 
 
 //Autumn Wind - Stability - ?
-dimwishlist:item=3790632261&perks=1392496348,1885400500,3619207468,555281244#notes:4-perks
-dimwishlist:item=3790632261&perks=1392496348,3619207468,555281244#notes:3-perks_1
-dimwishlist:item=3790632261&perks=1885400500,3619207468,555281244#notes:3-perks_2
-dimwishlist:item=3790632261&perks=3619207468,555281244#notes:2-perks
-dimwishlist:item=3790632261&perks=555281244#notes:1-perks_1
-dimwishlist:item=3790632261&perks=3619207468#notes:1-perks_2
+dimwishlist:item=2150012407&perks=839105230,1885400500,2846385770,3425386926#notes:4-perks
+dimwishlist:item=2150012407&perks=839105230,2846385770,3425386926#notes:3-perks_1
+dimwishlist:item=2150012407&perks=1885400500,2846385770,3425386926#notes:3-perks_2
+dimwishlist:item=2150012407&perks=2846385770,3425386926#notes:2-perks
+dimwishlist:item=2150012407&perks=3425386926#notes:1-perks_1
+dimwishlist:item=2150012407&perks=2846385770#notes:1-perks_2
 
 //FORGOT_WHAT_THIS_IS
 dimwishlist:item=3790632261&perks=1392496348,1885400500,3619207468,555281244#notes:4-perks
