@@ -127,6 +127,14 @@ dimwishlist:item=2595813005&perks=3619207468#notes:1-perks_2
 //energy energy energy
 //energy energy energy
 
+// Sorrow's Verse - Stability
+dimwishlist:item=775830132&perks=839105230,1885400500,1820235745,365154968#notes:4-perks
+dimwishlist:item=775830132&perks=839105230,1820235745,365154968#notes:3-perks_1
+dimwishlist:item=775830132&perks=1885400500,1820235745,365154968#notes:3-perks_2
+dimwishlist:item=775830132&perks=1820235745,365154968#notes:2-perks
+dimwishlist:item=775830132&perks=365154968#notes:1-perks_1
+dimwishlist:item=775830132&perks=1820235745#notes:1-perks_2
+
 // The Keening - Stability - Backup Mag
 dimwishlist:item=3902351469&perks=1840239774,1885400500,1820235745,2458213969#notes:4-perks
 dimwishlist:item=3902351469&perks=1840239774,1820235745,2458213969#notes:3-perks_1
