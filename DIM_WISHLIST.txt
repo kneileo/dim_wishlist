@@ -4,6 +4,14 @@ description:Filter for weapons that drop very frequently
 //kinetic kinetic kinetic 
 //kinetic kinetic kinetic 
 
+// Something New - Stability - Stability
+dimwishlist:item=1705150753&perks=1482024992,1885400500,3619207468,1015611457#notes:4-perks
+dimwishlist:item=1705150753&perks=1482024992,3619207468,1015611457#notes:3-perks_1
+dimwishlist:item=1705150753&perks=1885400500,3619207468,1015611457#notes:3-perks_2
+dimwishlist:item=1705150753&perks=3619207468,1015611457#notes:2-perks
+dimwishlist:item=1705150753&perks=1015611457#notes:1-perks_1
+dimwishlist:item=1705150753&perks=3619207468#notes:1-perks_2
+
 //Autumn Wind - Stability - ?
 dimwishlist:item=2150012407&perks=839105230,1885400500,2846385770,3425386926#notes:4-perks
 dimwishlist:item=2150012407&perks=839105230,2846385770,3425386926#notes:3-perks_1
@@ -126,6 +134,14 @@ dimwishlist:item=2595813005&perks=3619207468#notes:1-perks_2
 
 //energy energy energy
 //energy energy energy
+
+// Keraunios - Stability
+dimwishlist:item=2386208942&perks=1482024992,3868766766,3418782618,2396489472#notes:4-perks
+dimwishlist:item=2386208942&perks=1482024992,3418782618,2396489472#notes:3-perks_1
+dimwishlist:item=2386208942&perks=3868766766,3418782618,2396489472#notes:3-perks_2
+dimwishlist:item=2386208942&perks=3418782618,2396489472#notes:2-perks
+dimwishlist:item=2386208942&perks=2396489472#notes:1-perks_1
+dimwishlist:item=2386208942&perks=3418782618#notes:1-perks_2
 
 // Sorrow's Verse - Stability
 dimwishlist:item=775830132&perks=839105230,1885400500,1820235745,365154968#notes:4-perks
