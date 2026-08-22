@@ -4,6 +4,28 @@ description:Filter for weapons that drop very frequently
 //kinetic kinetic kinetic 
 //kinetic kinetic kinetic 
 
+// Eyasluna
+dimwishlist:item=386864872&perks=3250034553,1885400500,657025441,124408337#notes:4-perks - rng+bal
+dimwishlist:item=386864872&perks=3250034553,657025441,124408337#notes:3-perks_1
+dimwishlist:item=386864872&perks=1885400500,657025441,124408337#notes:3-perks_2
+dimwishlist:item=386864872&perks=657025441,124408337#notes:2-perks
+dimwishlist:item=386864872&perks=124408337#notes:1-perks_1
+dimwishlist:item=386864872&perks=657025441#notes:1-perks_2
+
+// D.F.A.
+dimwishlist:item=739029153&perks=1482024992,3142289711,1820235745,3425386926#notes:4-perks-p - rng+bal
+dimwishlist:item=739029153&perks=1482024992,3142289711,3252937884,1015611457#notes:4-perks - rng+bal
+dimwishlist:item=739029153&perks=1482024992,1820235745,3425386926#notes:3-perks_1-p
+dimwishlist:item=739029153&perks=1482024992,3252937884,1015611457#notes:3-perks_1
+dimwishlist:item=739029153&perks=3142289711,1820235745,3425386926#notes:3-perks_2-p
+dimwishlist:item=739029153&perks=3142289711,3252937884,1015611457#notes:3-perks_2
+dimwishlist:item=739029153&perks=1820235745,3425386926#notes:2-perks-p
+dimwishlist:item=739029153&perks=3252937884,1015611457#notes:2-perks
+dimwishlist:item=739029153&perks=3425386926#notes:1-perks_1-p
+dimwishlist:item=739029153&perks=1015611457#notes:1-perks_1
+dimwishlist:item=739029153&perks=1820235745#notes:1-perks_2-p
+dimwishlist:item=739029153&perks=3252937884#notes:1-perks_2
+
 // Triple Laureate
 dimwishlist:item=1605599021&perks=466087222,3142289711,2846385770,2360754333#notes:4-perks - rng+rng
 dimwishlist:item=1605599021&perks=466087222,2846385770,2360754333#notes:3-perks_1
@@ -12,9 +34,9 @@ dimwishlist:item=1605599021&perks=2846385770,2360754333#notes:2-perks
 dimwishlist:item=1605599021&perks=2360754333#notes:1-perks_1
 dimwishlist:item=1605599021&perks=2846385770#notes:1-perks_2
 
-// Something New - Stability - Stability
-dimwishlist:item=1705150753&perks=1482024992,1885400500,3619207468,1015611457#notes:4-perks
-dimwishlist:item=1705150753&perks=1482024992,3619207468,1015611457#notes:3-perks_1
+// Something New
+dimwishlist:item=1705150753&perks=1392496348,1885400500,3619207468,1015611457#notes:4-perks - sta+sta
+dimwishlist:item=1705150753&perks=1392496348,3619207468,1015611457#notes:3-perks_1
 dimwishlist:item=1705150753&perks=1885400500,3619207468,1015611457#notes:3-perks_2
 dimwishlist:item=1705150753&perks=3619207468,1015611457#notes:2-perks
 dimwishlist:item=1705150753&perks=1015611457#notes:1-perks_1
@@ -143,6 +165,14 @@ dimwishlist:item=2595813005&perks=3619207468#notes:1-perks_2
 //energy energy energy
 //energy energy energy
 
+// Kindled Orchid
+dimwishlist:item=3961462214&perks=1482024992,3142289711,1015611457,3081867624#notes:4-perks - rng+bal
+dimwishlist:item=3961462214&perks=1482024992,1015611457,3081867624#notes:3-perks_1
+dimwishlist:item=3961462214&perks=3142289711,1015611457,3081867624#notes:3-perks_2
+dimwishlist:item=3961462214&perks=1015611457,3081867624#notes:2-perks
+dimwishlist:item=3961462214&perks=3081867624#notes:1-perks_1
+dimwishlist:item=3961462214&perks=1015611457#notes:1-perks_2
+
 // Keraunios - Stability
 dimwishlist:item=2386208942&perks=1482024992,3868766766,3418782618,2396489472#notes:4-perks
 dimwishlist:item=2386208942&perks=1482024992,3418782618,2396489472#notes:3-perks_1
@@ -175,16 +205,16 @@ dimwishlist:item=3481382332&perks=3365897133,657025441#notes:2-perks
 dimwishlist:item=3481382332&perks=657025441#notes:1-perks_1
 dimwishlist:item=3481382332&perks=3365897133#notes:1-perks_2
 
-//Combined Action - Stability - PVP
+//Combined Action
 dimwishlist:item=1331824604&perks=1392496348,3177308360,2387244414,1954620775#notes:4-perks
-dimwishlist:item=1331824604&perks=1392496348,3177308360,2387244414,3673922083#notes:4-perks-pvp
+dimwishlist:item=1331824604&perks=1392496348,3177308360,2387244414,3673922083#notes:4-perks-p - sta+bal
 dimwishlist:item=1331824604&perks=1392496348,2387244414,1954620775#notes:3-perks_1
 dimwishlist:item=1331824604&perks=3177308360,2387244414,1954620775#notes:3-perks_2
-dimwishlist:item=1331824604&perks=1392496348,2387244414,3673922083#notes:3-perks_1-pvp
-dimwishlist:item=1331824604&perks=3177308360,2387244414,3673922083#notes:3-perks_2-pvp
+dimwishlist:item=1331824604&perks=1392496348,2387244414,3673922083#notes:3-perks_1-p
+dimwishlist:item=1331824604&perks=3177308360,2387244414,3673922083#notes:3-perks_2-p
 dimwishlist:item=1331824604&perks=2387244414,3673922083#notes:2-perks
-dimwishlist:item=1331824604&perks=2387244414,1954620775#notes:2-perks-pvp
-dimwishlist:item=1331824604&perks=3673922083#notes:1-perks_1-pvp
+dimwishlist:item=1331824604&perks=2387244414,1954620775#notes:2-perks-p
+dimwishlist:item=1331824604&perks=3673922083#notes:1-perks_1-p
 dimwishlist:item=1331824604&perks=1954620775#notes:1-perks_1
 
 //dimwishlist:item=1331824604&perks=3661387068,3177308360,2387244414,1954620775#notes:4-perks
