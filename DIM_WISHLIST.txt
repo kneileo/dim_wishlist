@@ -419,13 +419,6 @@ dimwishlist:item=2896109856&perks=1354429876,557221067#notes:2-perks
 dimwishlist:item=2896109856&perks=557221067#notes:1-perks_1
 dimwishlist:item=2896109856&perks=1354429876#notes:1-perks_2
 
-//perks
-dimwishlist:item=-69420&perks=1427256713#notes:Resevior Burst
-dimwishlist:item=-69420&perks=4293542123#notes:Incandescent
-dimwishlist:item=-69420&perks=3038247973#notes:EXPLOSIVE PAYLOAD
-dimwishlist:item=-69420&perks=1954620775#notes:TIMED PAYLOAD
-dimwishlist:item=-69420&perks=1048183818#notes:ADAPTIVE MUNITIONS
-
 //trash
 dimwishlist:item=-2579239008#notes:Out of Bounds
 //dimwishlist:item=-1246793994#notes:Maahes HC4
