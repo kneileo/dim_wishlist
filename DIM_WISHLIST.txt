@@ -4,6 +4,14 @@ description:Filter for weapons that drop very frequently
 //kinetic kinetic kinetic 
 //kinetic kinetic kinetic 
 
+// Service Revolver
+dimwishlist:item=3796682229&perks=3250034553,3142289711,1517798362,2305480722#notes:4-perks - rng+sta
+dimwishlist:item=3796682229&perks=3250034553,1517798362,2305480722#notes:3-perks_1
+dimwishlist:item=3796682229&perks=3142289711,1517798362,2305480722#notes:3-perks_2
+dimwishlist:item=3796682229&perks=1517798362,2305480722#notes:2-perks
+dimwishlist:item=3796682229&perks=2305480722#notes:1-perks_1
+dimwishlist:item=3796682229&perks=1517798362#notes:1-perks_2
+
 // Eyasluna
 dimwishlist:item=386864872&perks=3250034553,1885400500,657025441,124408337#notes:4-perks - rng+bal
 dimwishlist:item=386864872&perks=3250034553,657025441,124408337#notes:3-perks_1
