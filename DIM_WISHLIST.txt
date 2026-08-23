@@ -165,6 +165,14 @@ dimwishlist:item=2595813005&perks=3619207468#notes:1-perks_2
 //energy energy energy
 //energy energy energy
 
+// Frozen Orbit
+dimwishlist:item=1516542120&perks=1482024992,3142289711,3400784728,2319119708#notes:4-perks - sta+sta
+dimwishlist:item=1516542120&perks=1482024992,3400784728,2319119708#notes:3-perks_1
+dimwishlist:item=1516542120&perks=3142289711,3400784728,2319119708#notes:3-perks_2
+dimwishlist:item=1516542120&perks=3400784728,2319119708#notes:2-perks
+dimwishlist:item=1516542120&perks=2319119708#notes:1-perks_1
+dimwishlist:item=1516542120&perks=3400784728#notes:1-perks_2
+
 // Kindled Orchid
 dimwishlist:item=3961462214&perks=1482024992,3142289711,1015611457,3081867624#notes:4-perks - rng+bal
 dimwishlist:item=3961462214&perks=1482024992,1015611457,3081867624#notes:3-perks_1
