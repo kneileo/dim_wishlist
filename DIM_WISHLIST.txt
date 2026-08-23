@@ -165,6 +165,14 @@ dimwishlist:item=2595813005&perks=3619207468#notes:1-perks_2
 //energy energy energy
 //energy energy energy
 
+// Nation of Beasts
+dimwishlist:item=70083888&perks=2860123632,3267421167,4065965131,2923251173#notes:4-perks - rng+bal
+dimwishlist:item=70083888&perks=2860123632,4065965131,2923251173#notes:3-perks_1
+dimwishlist:item=70083888&perks=3267421167,4065965131,2923251173#notes:3-perks_2
+dimwishlist:item=70083888&perks=4065965131,2923251173#notes:2-perks
+dimwishlist:item=70083888&perks=2923251173#notes:1-perks_1
+dimwishlist:item=70083888&perks=4065965131#notes:1-perks_2
+
 // Frozen Orbit
 dimwishlist:item=1516542120&perks=1482024992,3142289711,3400784728,2319119708#notes:4-perks - sta+sta
 dimwishlist:item=1516542120&perks=1482024992,3400784728,2319119708#notes:3-perks_1
