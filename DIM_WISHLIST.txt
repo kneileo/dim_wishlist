@@ -414,10 +414,18 @@ dimwishlist:item=2150012406&perks=2848615171,2048641572#notes:2-perks
 dimwishlist:item=2150012406&perks=2048641572#notes:1-perks_1
 dimwishlist:item=2150012406&perks=2848615171#notes:1-perks_2
 
-//power power  power 
-//power power  power 
+//power heavy
+//power heavy
 
-//Eighty-Six - Impact
+// Dawn Far Off
+dimwishlist:item=1484294659&perks=1482024992,1885400500,2890807135,4293542123#notes:4-perks - sta+bal
+dimwishlist:item=1484294659&perks=1482024992,2890807135,4293542123#notes:3-perks_1
+dimwishlist:item=1484294659&perks=1885400500,2890807135,4293542123#notes:3-perks_2
+dimwishlist:item=1484294659&perks=2890807135,4293542123#notes:2-perks
+dimwishlist:item=1484294659&perks=4293542123#notes:1-perks_1
+dimwishlist:item=1484294659&perks=2890807135#notes:1-perks_2
+
+// Eighty-Six - Impact
 dimwishlist:item=2344383760&perks=2827049491,52780822,2590710093,2396489472#notes:4-perks
 dimwishlist:item=2344383760&perks=2827049491,2590710093,2396489472#notes:3-perks_1
 dimwishlist:item=2344383760&perks=52780822,2590710093,2396489472#notes:3-perks_2
@@ -425,7 +433,7 @@ dimwishlist:item=2344383760&perks=2590710093,2396489472#notes:2-perks
 dimwishlist:item=2344383760&perks=2396489472#notes:1-perks_1
 dimwishlist:item=2344383760&perks=2590710093#notes:1-perks_2
 
-//Qua Vinctus IV - Stability
+// Qua Vinctus IV - Stability
 dimwishlist:item=337893613&perks=839105230,3177308360,831391274,657025441#notes:4-perks
 dimwishlist:item=337893613&perks=839105230,831391274,657025441#notes:3-perks_1
 dimwishlist:item=337893613&perks=3177308360,831391274,657025441#notes:3-perks_2
@@ -433,7 +441,7 @@ dimwishlist:item=337893613&perks=831391274,657025441#notes:2-perks
 dimwishlist:item=337893613&perks=657025441#notes:1-perks_1
 dimwishlist:item=337893613&perks=831391274#notes:1-perks_2
 
-//Mistral Lift - Charge Time
+// Mistral Lift - Charge Time
 dimwishlist:item=766122634&perks=839105230,1687452232,3824105627,2048641572#notes:4-perks
 dimwishlist:item=766122634&perks=839105230,3824105627,2048641572#notes:3-perks_1
 dimwishlist:item=766122634&perks=1687452232,3824105627,2048641572#notes:3-perks_2
@@ -441,7 +449,7 @@ dimwishlist:item=766122634&perks=3824105627,2048641572#notes:2-perks
 dimwishlist:item=766122634&perks=2048641572#notes:1-perks_1
 dimwishlist:item=766122634&perks=3824105627#notes:1-perks_2
 
-//Eyes Unveiled - Charge Time
+// Eyes Unveiled - Charge Time
 dimwishlist:item=727781522&perks=839105230,1687452232,3643424744,2396489472#notes:4-perks
 dimwishlist:item=727781522&perks=839105230,3643424744,2396489472#notes:3-perks_1
 dimwishlist:item=727781522&perks=1687452232,3643424744,2396489472#notes:3-perks_2
@@ -449,7 +457,7 @@ dimwishlist:item=727781522&perks=3643424744,2396489472#notes:2-perks
 dimwishlist:item=727781522&perks=2396489472#notes:1-perks_1
 dimwishlist:item=727781522&perks=3643424744#notes:1-perks_2
 
-//Temptation's Hook - Impact
+// Temptation's Hook - Impact
 dimwishlist:item=1587953057&perks=2827049491,52780822,2590710093,2396489472#notes:4-perks
 dimwishlist:item=1587953057&perks=2827049491,2590710093,2396489472#notes:3-perks_1
 dimwishlist:item=1587953057&perks=52780822,2590710093,2396489472#notes:3-perks_2
@@ -457,7 +465,7 @@ dimwishlist:item=1587953057&perks=2590710093,2396489472#notes:2-perks
 dimwishlist:item=1587953057&perks=2396489472#notes:1-perks_1
 dimwishlist:item=1587953057&perks=2590710093#notes:1-perks_2
 
-//Double-Edged Answer - Impact
+// Double-Edged Answer - Impact
 dimwishlist:item=105164264&perks=2827049491,52780822,2590710093,2048641572#notes:4-perks
 dimwishlist:item=105164264&perks=2827049491,2590710093,2048641572#notes:3-perks_1
 dimwishlist:item=105164264&perks=52780822,2590710093,2048641572#notes:3-perks_2
@@ -465,7 +473,7 @@ dimwishlist:item=105164264&perks=2590710093,2048641572#notes:2-perks
 dimwishlist:item=105164264&perks=2048641572#notes:1-perks_1
 dimwishlist:item=105164264&perks=2590710093#notes:1-perks_2
 
-//Sleepless - Velocity
+// Sleepless - Velocity
 dimwishlist:item=2140635451&perks=1478423395,3796465595,3977735242,2396489472#notes:4-perks
 dimwishlist:item=2140635451&perks=1478423395,3977735242,2396489472#notes:3-perks_1
 dimwishlist:item=2140635451&perks=3796465595,3977735242,2396489472#notes:3-perks_2
@@ -473,7 +481,7 @@ dimwishlist:item=2140635451&perks=3977735242,2396489472#notes:2-perks
 dimwishlist:item=2140635451&perks=2396489472#notes:1-perks_1
 dimwishlist:item=2140635451&perks=3977735242#notes:1-perks_2
 
-//Watchful Eye - Stability
+// Watchful Eye - Stability
 dimwishlist:item=1757177186&perks=839105230,1561002382,3513791699,3966416502#notes:4-perks
 dimwishlist:item=1757177186&perks=839105230,3513791699,3966416502#notes:3-perks_1
 dimwishlist:item=1757177186&perks=1561002382,3513791699,3966416502#notes:3-perks_2
@@ -481,7 +489,7 @@ dimwishlist:item=1757177186&perks=3513791699,3966416502#notes:2-perks
 dimwishlist:item=1757177186&perks=3966416502#notes:1-perks_1
 dimwishlist:item=1757177186&perks=3513791699#notes:1-perks_2
 
-//Abyssal Edge - Impact
+// Abyssal Edge - Impact
 dimwishlist:item=547165496&perks=938542991,52780822,2590710093,31345821#notes:4-perks
 dimwishlist:item=547165496&perks=938542991,2590710093,31345821#notes:3-perks_1
 dimwishlist:item=547165496&perks=52780822,2590710093,31345821#notes:3-perks_2
@@ -489,7 +497,7 @@ dimwishlist:item=547165496&perks=2590710093,31345821#notes:2-perks
 dimwishlist:item=547165496&perks=31345821#notes:1-perks_1
 dimwishlist:item=547165496&perks=2590710093#notes:1-perks_2
 
-//Archon's Thunder - Stability
+// Archon's Thunder - Stability
 dimwishlist:item=2896109856&perks=3661387068,3177308360,1354429876,557221067#notes:4-perks
 dimwishlist:item=2896109856&perks=3661387068,1354429876,557221067#notes:3-perks_1
 dimwishlist:item=2896109856&perks=3177308360,1354429876,557221067#notes:3-perks_2
@@ -497,7 +505,7 @@ dimwishlist:item=2896109856&perks=1354429876,557221067#notes:2-perks
 dimwishlist:item=2896109856&perks=557221067#notes:1-perks_1
 dimwishlist:item=2896109856&perks=1354429876#notes:1-perks_2
 
-//trash
+// Trash
 dimwishlist:item=-2579239008#notes:Out of Bounds
 dimwishlist:item=-2579239009#notes:Unending Tempest
 //dimwishlist:item=-1246793994#notes:Maahes HC4
