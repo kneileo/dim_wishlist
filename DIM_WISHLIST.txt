@@ -152,7 +152,7 @@ dimwishlist:item=3269398063&perks=1966281507,31345821#notes:2-perks
 dimwishlist:item=3269398063&perks=31345821#notes:1-perks_1
 dimwishlist:item=3269398063&perks=1966281507#notes:1-perks_2
 
-//Live Fire - Stability
+// Live Fire - Stability
 dimwishlist:item=3612142623&perks=839105230,1561002382,1955165503,124408337#notes:4-perks
 dimwishlist:item=3612142623&perks=839105230,1955165503,124408337#notes:3-perks_1
 dimwishlist:item=3612142623&perks=1561002382,1955165503,124408337#notes:3-perks_2
@@ -160,7 +160,7 @@ dimwishlist:item=3612142623&perks=1955165503,124408337#notes:2-perks
 dimwishlist:item=3612142623&perks=124408337#notes:1-perks_1
 dimwishlist:item=3612142623&perks=1955165503#notes:1-perks_2
 
-//Tinasha's Mastery - Blast Radius 
+// Tinasha's Mastery - Blast Radius 
 dimwishlist:item=480368036&perks=1478423395,1380253176,563069569,2978966579#notes:4-perks
 dimwishlist:item=480368036&perks=1478423395,563069569,2978966579#notes:3-perks_1
 dimwishlist:item=480368036&perks=1380253176,563069569,2978966579#notes:3-perks_2
@@ -168,7 +168,7 @@ dimwishlist:item=480368036&perks=563069569,2978966579#notes:2-perks
 dimwishlist:item=480368036&perks=2978966579#notes:1-perks_1
 dimwishlist:item=480368036&perks=563069569#notes:1-perks_2
 
-//Crimil's Dagger - Stability 
+// Crimil's Dagger - Stability 
 dimwishlist:item=198854575&perks=1482024992,3177308360,3828510309,3038247973#notes:4-perks
 dimwishlist:item=198854575&perks=1482024992,3828510309,3038247973#notes:3-perks_1
 dimwishlist:item=198854575&perks=3177308360,3828510309,3038247973#notes:3-perks_2
@@ -176,7 +176,7 @@ dimwishlist:item=198854575&perks=3828510309,3038247973#notes:2-perks
 dimwishlist:item=198854575&perks=3038247973#notes:1-perks_1
 dimwishlist:item=198854575&perks=3828510309#notes:1-perks_2
 
-//Better Devils - Stability 
+// Better Devils - Stability 
 dimwishlist:item=4059111041&perks=3661387068,3177308360,247725512,3038247973#notes:4-perks
 dimwishlist:item=4059111041&perks=3661387068,247725512,3038247973#notes:3-perks_1
 dimwishlist:item=4059111041&perks=3177308360,247725512,3038247973#notes:3-perks_2
@@ -192,8 +192,16 @@ dimwishlist:item=2595813005&perks=3619207468,3038247973#notes:2-perks
 dimwishlist:item=2595813005&perks=3038247973#notes:1-perks_1
 dimwishlist:item=2595813005&perks=3619207468#notes:1-perks_2
 
-//energy energy energy
-//energy energy energy
+// energy energy energy
+// energy energy energy
+
+// Positive Outlook
+dimwishlist:item=3625635456&perks=839105230,1885400500,776531651,2048641572#notes:4-perks - sta+bal
+dimwishlist:item=3625635456&perks=839105230,776531651,2048641572#notes:3-perks_1
+dimwishlist:item=3625635456&perks=1885400500,776531651,2048641572#notes:3-perks_2
+dimwishlist:item=3625635456&perks=776531651,2048641572#notes:2-perks
+dimwishlist:item=3625635456&perks=2048641572#notes:1-perks_1
+dimwishlist:item=3625635456&perks=776531651#notes:1-perks_2
 
 // Yeartide Apex
 dimwishlist:item=3293207827&perks=1482024992,1885400500,3017780555,4293542123#notes:4-perks - sta+rng
