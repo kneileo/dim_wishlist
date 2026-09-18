@@ -195,6 +195,14 @@ dimwishlist:item=2595813005&perks=3619207468#notes:1-perks_2
 //energy energy energy
 //energy energy energy
 
+// Yeartide Apex
+dimwishlist:item=3293207827&perks=1482024992,1885400500,3017780555,4293542123#notes:4-perks - sta+rng
+dimwishlist:item=3293207827&perks=1482024992,3017780555,4293542123#notes:3-perks_1
+dimwishlist:item=3293207827&perks=1885400500,3017780555,4293542123#notes:3-perks_2
+dimwishlist:item=3293207827&perks=3017780555,4293542123#notes:2-perks
+dimwishlist:item=3293207827&perks=4293542123#notes:1-perks_1
+dimwishlist:item=3293207827&perks=3017780555#notes:1-perks_2
+
 // Hawthorne's Field-Forged Shotgun
 dimwishlist:item=1402874079&perks=466087222,3142289711,3161816588,3081867624#notes:4-perks - rng+rng
 dimwishlist:item=1402874079&perks=466087222,3161816588,3081867624#notes:3-perks_1
