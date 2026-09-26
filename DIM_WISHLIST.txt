@@ -195,6 +195,14 @@ dimwishlist:item=2595813005&perks=3619207468#notes:1-perks_2
 // energy energy energy
 // energy energy energy
 
+// The Wizened Rebuke
+dimwishlist:item=293709641&perks=3250034553,1687452232,2846385770,1427256713#notes:4-perks - chr+rng
+dimwishlist:item=293709641&perks=3250034553,2846385770,1427256713#notes:3-perks_1
+dimwishlist:item=293709641&perks=1687452232,2846385770,1427256713#notes:3-perks_2
+dimwishlist:item=293709641&perks=2846385770,1427256713#notes:2-perks
+dimwishlist:item=293709641&perks=1427256713#notes:1-perks_1
+dimwishlist:item=293709641&perks=2846385770#notes:1-perks_2
+
 // Occluded Finality
 dimwishlist:item=3104013318&perks=1482024992,1885400500,3418782618,555281244#notes:4-perks - rng+sta
 dimwishlist:item=3104013318&perks=1482024992,3418782618,555281244#notes:3-perks_1
