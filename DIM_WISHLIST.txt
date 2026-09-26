@@ -195,6 +195,14 @@ dimwishlist:item=2595813005&perks=3619207468#notes:1-perks_2
 // energy energy energy
 // energy energy energy
 
+// Occluded Finality
+dimwishlist:item=3104013318&perks=1482024992,1885400500,3418782618,555281244#notes:4-perks - rng+sta
+dimwishlist:item=3104013318&perks=1482024992,3418782618,555281244#notes:3-perks_1
+dimwishlist:item=3104013318&perks=1885400500,3418782618,555281244#notes:3-perks_2
+dimwishlist:item=3104013318&perks=3418782618,555281244#notes:2-perks
+dimwishlist:item=3104013318&perks=555281244#notes:1-perks_1
+dimwishlist:item=3104013318&perks=3418782618#notes:1-perks_2
+
 // Gunnora's Axe
 dimwishlist:item=218787951&perks=3250034553,1885400500,588594999,47981717#notes:4-perks - rng+rng
 dimwishlist:item=218787951&perks=3250034553,588594999,47981717#notes:3-perks_1
