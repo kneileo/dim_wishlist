@@ -195,6 +195,14 @@ dimwishlist:item=2595813005&perks=3619207468#notes:1-perks_2
 // energy energy energy
 // energy energy energy
 
+// The Helmsman
+dimwishlist:item=2325078119&perks=1482024992,3142289711,2579169598,47981717#notes:4-perks - rld+rld
+dimwishlist:item=2325078119&perks=1482024992,2579169598,47981717#notes:3-perks_1
+dimwishlist:item=2325078119&perks=3142289711,2579169598,47981717#notes:3-perks_2
+dimwishlist:item=2325078119&perks=2579169598,47981717#notes:2-perks
+dimwishlist:item=2325078119&perks=47981717#notes:1-perks_1
+dimwishlist:item=2325078119&perks=2579169598#notes:1-perks_2
+
 // The Wizened Rebuke
 dimwishlist:item=293709641&perks=3250034553,1687452232,2846385770,1427256713#notes:4-perks - chr+rng
 dimwishlist:item=293709641&perks=3250034553,2846385770,1427256713#notes:3-perks_1
